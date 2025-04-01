@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌱 Currently working on my Cybersecurity master's thesis at Politechnic university of Turin
+## 🌱 Currently busy working as cybersecurity consultant
 
 ## 💼 Technical Skills
 
@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 #### Operating System
 [![My Skills](https://skillicons.dev/icons?i=linux,&theme=dark)](https://skillicons.dev)
 
+<!--
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-zanfa&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/Dev-zanfa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-zanfa&layout=compact&theme=dracula)](https://github.com/Dev-zanfa)
+--> 
